@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [JensenSuite]">
+  <test name="JensenTest(failed)">
+    <classes>
+      <class name="com.janssen.spkportalautomate.tests.LoginTest">
+        <methods>
+          <include name="testSelectBrand"/>
+          <include name="testLogout"/>
+        </methods>
+      </class> <!-- com.janssen.spkportalautomate.tests.LoginTest -->
+    </classes>
+  </test> <!-- JensenTest(failed) -->
+</suite> <!-- Failed suite [JensenSuite] -->
